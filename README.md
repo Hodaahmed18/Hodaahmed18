@@ -2,7 +2,7 @@
 
 🎯 Cloud Engineer in Training · London, UK  
 🏅 RHCSA Certified · Building on AWS  
-📅 Goal: Junior Cloud Engineer role by May 2026  
+ 
 
 ---
 
