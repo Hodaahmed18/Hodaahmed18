@@ -13,7 +13,7 @@
 ![CloudFront](https://img.shields.io/badge/CloudFront-CDN-orange?style=flat-square&logo=amazonaws)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-green?style=flat-square&logo=gnubash)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-black?style=flat-square&logo=git)
-
+![Docker](https://img.shields.io/badge/Docker-Container-blue?style=flat-square&logo=docker)
 ---
 
 ## 📜 Certifications
@@ -32,7 +32,7 @@
 |---------|-------------|------|
 | AWS S3 Portfolio Site | Static site on S3 + CloudFront CDN, deployed via CLI | [View →](https://github.com/Hodaahmed18/aws-portfolio-site) |
 | RHEL Cloud Lab | EC2 environment configured from scratch on RHEL 10 | [View →](https://github.com/Hodaahmed18/linux-lab) |
-
+| Dockerized Portfolio | Static site containerised with Docker + Nginx, pushed to Docker Hub | [View →](https://github.com/Hodaahmed18/docker-portfolio) |
 ---
 
 ## 📈 Currently Learning
