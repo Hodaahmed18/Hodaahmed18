@@ -1,7 +1,7 @@
 # Hey, I'm Hoda 👋
 
 🎯 Junior DevOps Engineer · London, UK
-🏅 RHCSA Certified · Sparta Global HTD Cohort 2026
+🏅 RHCSA Certified ·
 ⚙️ Building on AWS · Linux · Docker · CI/CD
 
 ---
